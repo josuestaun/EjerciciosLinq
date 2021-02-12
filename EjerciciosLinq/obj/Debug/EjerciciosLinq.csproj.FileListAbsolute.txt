@@ -1,0 +1,17 @@
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.Form1.resources
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.Properties.Resources.resources
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.csproj.GenerateResource.cache
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\EjerciciosLinq.exe.config
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\EjerciciosLinq.exe
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\EjerciciosLinq.pdb
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\Entidades.dll
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\Gestion.dll
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\Entidades.pdb
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\bin\Debug\Gestion.pdb
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.csproj.CopyComplete
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.exe
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.pdb
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.Form2.resources
+C:\Users\Josue\source\repos\EjerciciosLinq\EjerciciosLinq\obj\Debug\EjerciciosLinq.Form3.resources
